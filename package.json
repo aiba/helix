@@ -9,6 +9,7 @@
   "author": "",
   "license": "EPL-2.0",
   "dependencies": {
+    "@cljs-oss/module-deps": "^1.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-refresh": "^0.6.0",
